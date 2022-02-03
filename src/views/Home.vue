@@ -6,10 +6,10 @@
    <v-toolbar color="rgba(0,0,0,0)" flat class="mt-n4">
       <v-btn-toggle v-model="toggle_exclusive" tile group color="#49D9A0" >
         <v-btn text>
-          <v-icon>fas fa-arrow-left</v-icon>
+          <v-icon>fas fa-arrow-right</v-icon>
         </v-btn>
         <v-btn text>
-          <v-icon>fas fa-arrow-right</v-icon>
+          <v-icon>mdi-account</v-icon>
         </v-btn>
       </v-btn-toggle>
       <v-spacer></v-spacer>
@@ -272,9 +272,9 @@
         </v-list-item-avatar>
 </v-badge>
         <v-list-item-content>
-          <v-list-item-title >AAE Ideapro</v-list-item-title>
+          <v-list-item-title >talha marac</v-list-item-title>
 
-          <v-list-item-subtitle>32 Story point</v-list-item-subtitle>
+          <v-list-item-subtitle>32 33Story point</v-list-item-subtitle>
         </v-list-item-content>
 
       </v-list-item>
